@@ -30,7 +30,7 @@ const Home =()=>{
                      }}
                      >
                     <Welcome/>
-                    {/* <Popularjobs/> */}
+                    <Popularjobs/>
                 </View>
             </ScrollView>
         </SafeAreaView>
